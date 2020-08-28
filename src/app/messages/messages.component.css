@@ -36,3 +36,8 @@ button.clear {
   color: #333;
   margin-bottom: 12px;
 }
+
+.message {
+  color: gray;
+  font-weight: lighter;
+}

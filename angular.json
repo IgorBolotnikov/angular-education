@@ -126,5 +126,8 @@
       }
     }
   },
-  "defaultProject": "my-app"
+  "defaultProject": "my-app",
+  "cli": {
+    "defaultCollection": "@datorama/akita"
+  }
 }
